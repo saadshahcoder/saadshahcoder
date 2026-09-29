@@ -70,7 +70,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=saadshahcoder&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=saadshahcoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400"
     alt="Mohammed Saad Shah's GitHub Stats"
   />
 </p>
@@ -84,12 +84,10 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadshahcoder&layout=compact&theme=dark&hide_border=false&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadshahcoder&layout=compact&theme=dark&langs_count=8&cache_seconds=86400"
     alt="Most Used Languages"
   />
 </p>
-
----
 
 <!-- ===================== GITHUB TROPHIES ===================== -->
 
